@@ -1,0 +1,2 @@
+# Mine
+For mining Rimcoin. 
