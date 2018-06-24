@@ -20,8 +20,8 @@ def thread():
 cores = float(raw_input("enter cores to mine on: "))
 n = 0
 
-while n<cores:
-    Thread(target=thread).start()
-    n+=1
+while n < cores:
+    Thread(target = thread).start()
+    n += 1
 
 print("Mining... ")
